@@ -4,7 +4,7 @@
 This repository follows branch management as below:
 
 - **main** → Stable branch with production-ready code.  
-- **my-feature-branch** sub branch
+- **realese/1.0** sub branch
 
 
 
